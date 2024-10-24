@@ -73,7 +73,7 @@ const spells = [
   "Avada Kedavra 💀",       // The killing curse, symbolized by a skull.
   "Accio 🧲",               // A summoning spell, represented by a magnet for attraction.
   "Stupefy ⚡",              // The stunning spell, represented by a lightning bolt.
-  "Wingardium Leviosa 🪄",   // The levitation spell, represented by a wand.
+  "Wingardium Leviosa 🦋",   // The levitation spell, represented by a wand.
   "Alohomora 🗝️",           // Unlocking spell, represented by a key.
   "Lumos 🔦",               // The light-producing spell, represented by a flashlight.
 ];
